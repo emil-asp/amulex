@@ -5,7 +5,7 @@ DEMO
 http://www.amulex.tatuha.ru/
 
 * **php**:    *5.6*
-* **БД**:     *mariabd 10*
+* **БД**:     *mariadb 10*
 * **jQuery**: *1.11.1*  
 
 Задание
